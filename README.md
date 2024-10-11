@@ -6,3 +6,5 @@ The file  "Emotion_Intensity_Multitasking_Framework_CNN_LSTM_GRU " showcases all
 The file "MP_Emotion_Intensity_FastText_Bert_DistilBert_complete" shared experiments for Single task emotion intensity experiments with various embeddings with deep earning models
 
 The file " Emotion_Int_ensemble_Multi_task "  contains all code of multitasking experiments using ensemble models.
+
+Dataset Link: https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
